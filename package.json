@@ -1,0 +1,15 @@
+{
+  "name": "req-header-parser",
+  "version": "1.0.0",
+  "description": "Request Header Parser Microservice",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "awwakum",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-useragent": "^0.2.4"
+  }
+}
